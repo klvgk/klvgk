@@ -1,6 +1,6 @@
-### <img src="https://github.com/klvgk/klvgk/assets/25831261/bf2e9b20-c1cb-4ab4-b863-adbcaec8f787" width="100" height="40"/> Hello World..
+### <img src="https://github.com/klvgk/klvgk/assets/25831261/24c63734-c49a-4c1a-aa1e-dc82cbb89dad" width="150" height="80"/> 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!--
 **klvgk/klvgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
