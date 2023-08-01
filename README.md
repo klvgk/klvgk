@@ -1,6 +1,12 @@
-### <img src="https://github.com/klvgk/klvgk/assets/25831261/24c63734-c49a-4c1a-aa1e-dc82cbb89dad" width="150" height="80"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klvgk&layout=donut)](https://github.com/klvgk)
+<div>
+  <a href="https://github.com/klvgk">
+   <img height="180em" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25831261/257619938-24c63734-c49a-4c1a-aa1e-dc82cbb89dad.gif" width="300em" /> 
+  </a>
+  <a href="https://github.com/klvgk">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klvgk&layout=donut&theme=dark" />
+  </a>
+</div>
 
 
 <!--
