@@ -4,7 +4,7 @@
    <img height="180em" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25831261/257619938-24c63734-c49a-4c1a-aa1e-dc82cbb89dad.gif" width="300em" /> 
   </a>
   <a href="https://github.com/klvgk">
-   <img height="180em" src="https://github-readme-stats-git-master-klvgk.vercel.app/api/top-langs/?username=klvgk&layout=donut" />
+   <img height="180em" src="https://github-readme-stats-git-master-klvgk.vercel.app/api/top-langs/?username=klvgk&layout=donut&theme=dark" />
   </a>
 </div>
 <br>
